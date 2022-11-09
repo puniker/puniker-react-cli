@@ -1,0 +1,13 @@
+{
+  "name": "puniker-react-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gc": "node ./scripts $1",
+    "generate-component": "node ./scripts $1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
